@@ -18,9 +18,8 @@ public class FibonacciSequence {
                 a = b;
                 b = c;
             }
-            System.out.println(c);
+            System.out.print(c);
             i++;
         }
     }
 }
-
